@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch --minify"
   },
-  "name": "sutar-juni-kost-website",
+  "name": "juni-kost-website",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "dependencies": {
